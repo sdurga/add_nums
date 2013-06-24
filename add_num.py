@@ -1,5 +1,5 @@
 def add_two(a,b)
-	return a+b
+	return a+b+1
 
 def main():
 	print ("2+3 =", add_two(2,3))
